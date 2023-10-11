@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fan Zhou</h1>
 <h3 align="center">MSCS@Northeastern Univeristy, looking for SDE position</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownfanzh&label=Profile%20views&color=0e75b6&style=flat" alt="unknownfanzh" /> </p>
 
 - 📝 I’m currently enrolling in MSCS at **Northeastern University**
 
